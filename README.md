@@ -6,3 +6,4 @@ docker start some-rethink ---> localhost:8080
 ```
 run node 
 npm start  ----> localhost:3000
+```
