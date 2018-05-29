@@ -1,6 +1,8 @@
 # Nodejs-rethinkdb
 login by  nodejs express rethinkdb docker
-1.Docker 
+```
+Docker 
 docker start some-rethink ---> localhost:8080
-2.run node 
+```
+run node 
 npm start  ----> localhost:3000
